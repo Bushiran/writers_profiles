@@ -1,44 +1,56 @@
 [
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "Audre Lorde",
+        "avatar":"audre_lorde",
+        "email":"audrelorde@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds njaej ndas fhewik nehj"
+
     },
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "Belle Hooks",
+        "avatar":"belle_hooks",
+        "email":"bellehooks@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds njaej ndas fhewik nehj"
+
     },
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "Du Bois",
+        "avatar":"du_bois",
+        "email":"dubois@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds njaej ndas fhewik nehj"
+
     },
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "James Baldwin",
+        "avatar":"james_baldwin",
+        "email":"jamesbaldwin@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds njaej ndas fhewik nehj"
+
     },
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "Lanston Hughes",
+        "avatar":"lanston_hughes",
+        "email":"lanstonhughes@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds Hickmat is going to school njaej ndas fhewik nehj"
+
     },
     {
-        "id": 1,
-        "avatar": "Audre Lorde",
-        "email": "audrelorde@gmail.com",
-        "phone": "0201847507",
-        "bio": "she id the quick brown fox jumps over the lazy the dog"
+        "id":1,
+        "name": "Maya Angelou",
+        "avatar":"maya_angelou",
+        "email":"mayaangelou@gmail.com",
+        "phone":"1-773-454-3645",
+        "bio":"she id nds njjhggn juist yth  hhhh aej ndas fhewik nehj"
+
     }
 ]
